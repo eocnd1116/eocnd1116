@@ -1,5 +1,8 @@
 ## HELLO, HI
-테스트
+**인디 게임 개발** 및 **해외 인디게임의 로컬라이징**을 주로 하고 있습니다.
+Github을 잘 쓰지도 않는데 그냥 꾸며보고 싶어서 꾸며봤습니다.
+
+
 <!--
 **eocnd1116/eocnd1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
