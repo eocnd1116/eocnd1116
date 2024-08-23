@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO, HI!
 
 <!--
 **eocnd1116/eocnd1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
