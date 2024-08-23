@@ -3,9 +3,9 @@
 Github을 잘 쓰지도 않는데 이걸 만든 이유는 포트폴리오? 같은 느낌.
 
 ### 프로필
-🌏 한국어, English, 日本語
-💻 C, Python, Java, (Html, CSS, JS)
-⚙️ GameMaker: Studio 2 → GODOT Engine
+🌏 한국어, English, 日本語<br>
+💻 C, Python, Java, (Html, CSS, JS)<br>
+⚙️ GameMaker: Studio 2 → GODOT Engine<br>
 
 ### 게임 번역
   - **RISK OF RAIN 1** [▶](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
