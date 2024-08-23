@@ -1,5 +1,5 @@
 ## HELLO, HI
-<span style=" background: linear-gradient(to top, #FFE400 50%, transparent 50%)>**인디 게임 개발**</span> 및 **해외 인디 게임의 로컬라이징**을 주로 하고 있습니다.<br>
+<mark>**인디 게임 개발**</mark> 및 **해외 인디 게임의 로컬라이징**을 주로 하고 있습니다.<br>
 Github을 잘 쓰지도 않는데 그냥 꾸며보고 싶어서 꾸며봤습니다.
 
 <!--
