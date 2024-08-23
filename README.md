@@ -7,6 +7,13 @@ Github을 잘 쓰지도 않는데 이걸 만든 이유는 포트폴리오? 같�
 💻 C, Python, Java, (Html, CSS, JS)<br>
 ⚙️ GameMaker: Studio 2 → GODOT Engine<br>
 
+### 게임 개발
+솔직히 말하면 공개적으로 만든게 거의 없습니다... 다 사적으로 만든거라서 :/
+  - **UNDERTALE: COLLAPSED** [▶](https://gamejolt.com/games/UTCP/667837)<br>
+    언더테일의 팬 게임이며, Gravity라는 개 오글거리는 닉네임을 가진 얘랑 같이 만들었습니다.<br>
+    (이 계정의 리포지토리에 만화 몇 개를 올려놨는데, 거기 '중력의 군주'의 주인공 중력의 신이 Gravity 얘입니다... 찾아보진 말고.)<br>
+    아마 처음으로 공개한 작품인거 같은데, 개망해서 이제 개발 중지하고 코딩 공부만 하고 있습니다.
+    
 ### 게임 번역
   - **RISK OF RAIN 1** [▶](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     재밌어 보여서 구매했는데 한글 패치가 없었고, '살코기가좋아'라는 특이한 닉네임을 가지신 분과 함께 번역했던 게임입니다.<br>
