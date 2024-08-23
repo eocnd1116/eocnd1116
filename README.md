@@ -3,7 +3,7 @@
 Github을 잘 쓰지도 않는데 이걸 만든 이유는 포트폴리오? 같은 느낌인데, 뭐 한게 있어야지 채우지...<br>
 <br>
 🌏 한국어, English, 日本語?<br>
-💻 C, Python, Java, (Html, CSS, JS)<br>
+💻 C, Python, Java, (HTML, CSS, JS)<br>
 ⚙️ GameMaker: Studio 2 → GODOT Engine<br>
 <br>
 📑 만약 스프라이터가 필요하다면 Discord 연락해 주세요 :)<br>
