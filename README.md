@@ -3,7 +3,7 @@
 Github을 잘 쓰지도 않는데 이걸 만든 이유는 몰?루
 
 ### 게임 번역
-  - **RISK OF RAIN 1**<br>
+  - [**RISK OF RAIN 1**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     재밌어 보여서 구매했는데 한글 패치가 없었고, '살코기가좋아'라는 특이한 닉네임을 가지신 분과 함께 번역했던 게임입니다.<br>
     일정 때문에 1년 가량의 시간이 걸렸었는데, 하필 그 시기가 이 게임의 10주년이였고 한국어가 포함된 리메이크가 나오면서 존재감이 애매모호해진 작품이기도 합니다.
   - **MOTHER: ENCORE**<br>
