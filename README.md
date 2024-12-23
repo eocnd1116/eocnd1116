@@ -12,11 +12,11 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 <br>
 <br>
 ### 개발 작업
-  - **UNDERTALE: COLLAPSED** [▶](https://gamejolt.com/games/UTCP/667837)<br>
+  - [**UNDERTALE: COLLAPSED**](https://gamejolt.com/games/UTCP/667837)<br>
     with Gravity  ...and many people
 ### 번역 작업
-  - **RISK OF RAIN 1** [▶](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
+  - [**RISK OF RAIN 1**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
-  - **MOTHER: ENCORE** [▶](https://motherencore.com/)<br>
+  - [**MOTHER: ENCORE**](https://motherencore.com/)<br>
     with hanlan, 포갬  ...and many people
-  - **MOTHER International** [▶](https://www.mother4ever.net/motherinternational/)<br>
+  - [**MOTHER International**](https://www.mother4ever.net/motherinternational/)<br>
