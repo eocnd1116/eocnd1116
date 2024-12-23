@@ -2,6 +2,7 @@
 <mark>인디 게임 개발</mark>을 주로 하고 있고, 가끔 <mark>인디 게임 번역</mark>을 하고 있습니다.<br>
 I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie Games</mark>.
 <br>
+<br>
 🌏 한국어, English, 日本語?<br>
 💻 C, Python, Java, (HTML, CSS, JS)<br>
 ⚙️ GameMaker: Studio 2 → GODOT Engine<br>
