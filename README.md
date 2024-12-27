@@ -3,7 +3,7 @@
 I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie Games</mark>.
 <br>
 <br>
-🌏 한국어, English, 日本語?<br>
+🌏 한국어, English, 日本語(little bit)<br>
 💻 C, Python, Java, (HTML, CSS, JS)<br>
 ⚙️ GameMaker: Studio 2 → GODOT Engine<br>
 <br>
