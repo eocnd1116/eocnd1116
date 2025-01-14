@@ -9,7 +9,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 <br>
 📑 만약 스프라이터가 필요하다면 Discord 연락해 주세요 :)<br>
     If you need a Spriter, please DM me on Discord
-<br>
+<br><br>
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
 ### 개발 Develop
