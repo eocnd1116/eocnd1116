@@ -1,5 +1,5 @@
 ## 안녕하세요!
-[](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <mark>인디 게임 개발</mark>을 주로 하고 있고, 가끔 <mark>인디 게임 번역</mark>을 하고 있습니다.<br>
 I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie Games</mark>.
 <br>
