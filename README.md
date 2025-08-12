@@ -18,7 +18,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
-  - [**MOTHER: ENCORE**](https://motherencore.com/)<br>
+  - [**MOTHER: Encore**](https://motherencore.com/)<br>
     with Hanlan, 포갬  ...and many people
   - [**MOTHER International**](https://www.mother4ever.net/motherinternational/)<br>
     thx-> Jumpman
