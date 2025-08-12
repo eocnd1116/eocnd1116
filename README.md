@@ -15,7 +15,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 ### 개발 Develop
   - [**UNDERTALE: COLLAPSED**](https://gamejolt.com/games/UTCP/667837)<br>
     with Gravity  ...and many people
-  - **スイラムオ**
+  - **スイラムオ**<br>
     with SELF(->Me)
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
