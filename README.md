@@ -25,7 +25,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
   - [**MOTHER International**](https://www.mother4ever.net/motherinternational/)<br>
     thx-> Jumpman
   - [**SwApFell: I Hate You. (비공식)**](https://gamejolt.com/games/KRSwapfeller/981816)<br>
-    with CesiumAtom
+    by CesiumAtom
   - [**~~FRIDAY NIGHT DUSTIN'~~**](https://gamejolt.com/games/fridaynightdustinFULL/1012008)<br>
     thx-> David0414 / with CesiumAtom, Core, bpforest, Ra_TanG
   - [**OFF Remaster (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3601216861)<br>
