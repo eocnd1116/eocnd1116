@@ -15,6 +15,8 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 ### 개발 Develop
   - [**UNDERTALE: COLLAPSED**](https://gamejolt.com/games/UTCP/667837)<br>
     with Gravity  ...and many people
+  - [**DUSTTALE**](https://x.com/dusttaled)<br>
+    with Core  ...and many people
   - **スイラムオ**<br>
     with SELF(->Me)
 ### 번역 Translate
