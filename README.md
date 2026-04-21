@@ -4,7 +4,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 <br>
 <br>
 🌏 한국어, English, 日本語(little bit)<br>
-💻 C, Python, Java, (HTML, CSS, JS)<br>
+💻 C, Cpp, Python, Java, JS, (HTML, CSS), 아희<br>
 ⚙️ ... → GameMaker: Studio 2 → GODOT Engine  (I HATE UNITY)<br>
 <br><br>
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
