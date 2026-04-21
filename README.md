@@ -31,3 +31,6 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     thx-> Mabaraksha
   - [**DREAMTONE (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=368614)<br>
     with SELF(->Me)
+### 번역 Translate
+  - **スイラムオ**<br>
+    with SELF(->Me)
