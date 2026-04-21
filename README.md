@@ -6,9 +6,6 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 🌏 한국어, English, 日本語(little bit)<br>
 💻 C, Python, Java, (HTML, CSS, JS)<br>
 ⚙️ GameMaker: Studio 2 → GODOT Engine<br>
-<br>
-📑 만약 스프라이터가 필요하다면 Discord 연락해 주세요 :)<br>
-    If you need a Spriter, please DM me on Discord
 <br><br>
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
@@ -32,3 +29,5 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     thx-> David0414 / with CesiumAtom, Core, bpforest, Ra_TanG
   - [**OFF Remaster (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3601216861)<br>
     thx-> Mabaraksha
+  - [**DREAMTONE (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=368614)<br>
+    with SELF(->Me)
