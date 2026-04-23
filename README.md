@@ -14,10 +14,11 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     with Gravity  ...and many people
   - [**DUSTTALE**](https://x.com/dusttaled)<br>
     with Core  ...and many people
-  - **スイラムオ** (개발중...)<br>
+  - **~~スイラムオ~~**<br>
     with SELF(->Me)
   - **트릭컬 팬게임 :: 대슈르** (개발중...)<br>
     with SELF(->Me)
+  - **카스텔과 선홍빛 꽃** (개발중...)<br>
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
