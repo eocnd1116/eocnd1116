@@ -28,8 +28,6 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     thx-> Jumpman
   - [**SwApFell: I Hate You. (비공식)**](https://gamejolt.com/games/KRSwapfeller/981816)<br>
     by CesiumAtom
-  - [**~~FRIDAY NIGHT DUSTIN'~~**](https://gamejolt.com/games/fridaynightdustinFULL/1012008)<br>
-    thx-> David0414 / with CesiumAtom, Core, bpforest, Ra_TanG
   - [**OFF Remaster (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3601216861)<br>
     thx-> Mabaraksha
   - [**DREAMTONE (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=368614)<br>
