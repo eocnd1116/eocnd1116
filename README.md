@@ -9,11 +9,6 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 <br><br>
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
-### 개발 Develop
-  - [**UNDERTALE: COLLAPSED**](https://gamejolt.com/games/UTCP/667837)<br>
-    with Gravity  ...and many people
-  - [**DUSTTALE**](https://x.com/dusttaled)<br>
-    with Core  ...and many people
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
