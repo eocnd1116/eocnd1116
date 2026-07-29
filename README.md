@@ -9,6 +9,11 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 <br><br>
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
+### 폰트 Font
+  - [**DeltaDotum.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=0)<br>
+    <DELTARUNE> 한국어 패치용 폰트, 윤디자인웹돋움 기반 깔끔한 디자인
+  - [**DeltaGlass.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=1)<br>
+    <DELTARUNE> 한국어 패치용 폰트, 고딕풍 세리프 디자인
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
