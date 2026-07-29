@@ -29,7 +29,7 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     with SELF(->Me)
   - [**ANOTHER DOOR (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=413493)<br>
     with SELF(->Me)
-  - [**DELTARUNE (비공식)**](https://www.deltarunekr.kro.kr/)<br>
+  - [**DELTARUNE Chapter 5 (비공식)**](https://www.deltarunekr.kro.kr/)<br>
     from dtkrpatchteam
 ### 동인 행사
   - 코믹월드 WINTER 2025 일산 - [이세계 픽셀]
