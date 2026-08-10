@@ -10,12 +10,12 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
 ### 폰트 Font
-폰트 제작은 exqt님의 [pixel-font-maker](https://github.com/exqt/pixel-font-maker)와 Sergi Lazaro님의 [PixelForge](https://sergilazaro.itch.io/pixelforge)를 애용하고 있습니다.<br>
-이곳에서 감사의 말씀 올립니다.
-  - [**DeltaDotum.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=0)<br>
+  - [**델타돋움체 DeltaDotum.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=0)<br>
     DELTARUNE 한국어 패치용 폰트, 윤디자인웹돋움 기반 깔끔한 디자인
-  - [**DeltaGlass.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=1)<br>
+  - [**델타글라스체 DeltaGlass.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=1)<br>
     DELTARUNE 한국어 패치용 폰트, 고딕풍 세리프 디자인
+  - [**드림흐물체 DreamHeumul.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=2)<br>
+    자유분방하게 흐물거리는 필기체 디자인
 ### 번역 Translate
   - [**RISK OF RAIN 1 (비공식)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2826112260)<br>
     with 살코기가좋아(Salomanchicken)
