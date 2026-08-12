@@ -10,12 +10,11 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
 ![eocnd1116](https://count.getloli.com/@eocnd1116?name=eocnd1116&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br>
 <br>
 ### 폰트 Font
-  DELTARUNE 한국어 패치용 폰트
+  
   - [**델타돋움체 DeltaDotum.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=0)<br>
-    윤디자인웹돋움 기반 깔끔한 디자인
+    (DELTARUNE 한국어 패치용 폰트) 윤디자인웹돋움 기반 깔끔한 디자인
   - [**델타글라스체 DeltaGlass.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=1)<br>
-    고딕풍 세리프 디자인
-<br>취미용 폰트
+    (DELTARUNE 한국어 패치용 폰트) 고딕풍 세리프 디자인
   - [**드림흐물체 DreamHeumul.ttf**](https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=2)<br>
     자유분방하게 흐물거리는 필기체 디자인
 ### 번역 Translate
