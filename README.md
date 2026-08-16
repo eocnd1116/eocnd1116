@@ -1,6 +1,9 @@
 ## 안녕하세요!
-<mark>인디 게임 개발</mark>을 주로 하고 있고, 가끔 <mark>인디 게임 번역</mark>을 하고 있습니다.<br>
-I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie Games</mark>.
+저는 한국인 개발자이자 스프라이터로 활동하고 있는 <mark>보석/qhtjr</mark>이라고 합니다.<br>
+순수하게 재미있는 작업만을 추구하는 편입니다.<br>
+<br>
+취미로 게임 번역도 겸하는데 대체적으로 「한국어로 하고 싶은데, 아무도 번역을 안 해주네...」일 때 작업하는 편이며,<br>
+동시에 그 게임의 폰트와 대응되는 한글 폰트가 전무하기 때문에 가끔 폰트 개발도 하고 있습니다!<br>
 <br>
 <br>
 🌏 한국어, English, 日本語(little bit)<br>
@@ -32,6 +35,3 @@ I mainly develop <mark>Indie Games</mark>, and sometimes I <mark>Translate Indie
     with SELF(->Me)
   - [**DELTARUNE Chapter 5 (비공식)**](https://www.deltarunekr.kro.kr/)<br>
     with dtkrpatchteam
-### 동인 행사
-  - 코믹월드 WINTER 2025 일산 - [이세계 픽셀]
-  - 코믹월드 330 일산 - [2세계 픽셀]
