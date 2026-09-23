@@ -35,5 +35,5 @@
     with SELF(->Me)
   - [**DELTARUNE Chapter 5 (비공식)**](https://www.deltarunekr.kro.kr/)<br>
     with dtkrpatchteam
-  - [**The Death Game Report (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=504926)
+  - [**The Death Game Report (비공식)**](https://gall.dcinside.com/mgallery/board/view/?id=indiegame&no=504926)<br>
     with Sirane
